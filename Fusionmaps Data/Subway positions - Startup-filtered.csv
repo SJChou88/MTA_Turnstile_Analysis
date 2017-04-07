@@ -1,0 +1,346 @@
+Division,Line,Station_Name,Station_Latitude,Station_Longitude,Route_1,Route_2,Route_3,Route_4,Route_5,Route_6,Route_7,Route_8,Route_9,Route_10,Route_11,Entrance_Type,Entry,Exit_Only,Vending,Staffing,Staff_Hours,ADA,ADA_Notes,Free_Crossover,North_South_Street,East_West_Street,Corner,Latitude,Longitude
+IRT,Clark,Clark St,40.697466,-73.993086,2,3,,,,,,,,,,Door,YES,,YES,FULL,,FALSE,,TRUE,Clark St,Henry St,NW,40.69759,-73.993275
+IRT,Clark,Clark St,40.697466,-73.993086,2,3,,,,,,,,,,Door,YES,,YES,FULL,,FALSE,,TRUE,Clark St,Henry St,NW,40.697649,-73.99306
+IND,8 Avenue,High St,40.699337,-73.990531,A,C,J,Z,2,3,4,5,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Cadman Plaza West,Cranberry St,NW,40.699405,-73.991413
+IND,8 Avenue,High St,40.699337,-73.990531,A,C,J,Z,2,3,4,5,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,Red Cross Pl,Adams St,SW,40.699112,-73.98892
+IND,8 Avenue,High St,40.699337,-73.990531,A,C,J,Z,2,3,4,5,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,Sands St,Adams St,SE,40.699212,-73.988274
+IND,6 Avenue,York St,40.699743,-73.986885,F,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Jay St,York St,SW,40.70138,-73.986655
+IRT,Clark,Park Place,40.713051,-74.008811,A,C,E,1,2,3,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Park Pl,Broadway,NW,40.712712,-74.007766
+BMT,Nassau,Chambers St,40.713243,-74.003401,J,Z,4,5,6,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,Centre St,Chambers St,SE,40.712699,-74.004099
+BMT,Broadway,City Hall,40.713282,-74.006978,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Broadway,Warren St,SE,40.71311,-74.007045
+BMT,Broadway,City Hall,40.713282,-74.006978,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Broadway,Warren St,NE,40.713437,-74.00676
+BMT,Broadway,City Hall,40.713282,-74.006978,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Broadway,Warren St,SE,40.713521,-74.006697
+IND,8 Avenue,Chambers St,40.714111,-74.008585,A,C,E,2,3,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Church St,Murray St,SW,40.713753,-74.009046
+IND,8 Avenue,Chambers St,40.714111,-74.008585,A,C,E,2,3,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,Church St,Chambers St,SW,40.714873,-74.008162
+IND,8 Avenue,Chambers St,40.714111,-74.008585,A,C,E,2,3,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,Church St,Chambers St,SE,40.714777,-74.007903
+IND,8 Avenue,Chambers St,40.714111,-74.008585,A,C,E,2,3,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,Church St,Chambers St,NW,40.715099,-74.007989
+IND,8 Avenue,Chambers St,40.714111,-74.008585,A,C,E,2,3,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,Church St,Chambers St,NE,40.714992,-74.007739
+IND,8 Avenue,Chambers St,40.714111,-74.008585,A,C,E,2,3,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,Church St,Murray St,NW,40.713949,-74.00896
+IND,8 Avenue,Chambers St,40.714111,-74.008585,A,C,E,2,3,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,Church St,Warren St,SW,40.714313,-74.008584
+IND,8 Avenue,Chambers St,40.714111,-74.008585,A,C,E,2,3,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,Church St,Warren St,NW,40.714539,-74.008428
+IND,8 Avenue,Chambers St,40.714111,-74.008585,A,C,E,2,3,,,,,,,Stair,NO,Yes,NO,NONE,,FALSE,,TRUE,Church St,Warren St,SE,40.7142,-74.008357
+BMT,Nassau,Chambers St,40.71419,-74.003199,J,Z,4,5,6,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,Lafayette St,Duane St,NE,40.714199,-74.003187
+IRT,Broadway-7th Ave,Chambers St,40.715478,-74.009266,1,2,3,,,,,,,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,Chambers St,West Broadway,SW,40.715444,-74.009453
+IRT,Broadway-7th Ave,Chambers St,40.715478,-74.009266,1,2,3,,,,,,,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,Chambers St,West Broadway,SE,40.715349,-74.009211
+IRT,Broadway-7th Ave,Chambers St,40.715478,-74.009266,1,2,3,,,,,,,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,Chambers St,West Broadway,NW,40.715736,-74.009328
+IRT,Broadway-7th Ave,Chambers St,40.715478,-74.009266,1,2,3,,,,,,,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,Chambers St,West Broadway,NE,40.715576,-74.009031
+IRT,Broadway-7th Ave,Chambers St,40.715478,-74.009266,1,2,3,,,,,,,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,Chambers St,Broadway,SW,40.715539,-74.009427
+BMT,Nassau,Canal St,40.718092,-73.999892,J,N,Q,R,Z,6,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,Centre St,Canal St,SW,40.717823,-74.000326
+IND,6 Avenue,Grand St,40.718267,-73.993753,B,D,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Chrystie St,Grand St,NE,40.718155,-73.993452
+IND,6 Avenue,Grand St,40.718267,-73.993753,B,D,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Chrystie St,Grand St,NE,40.718191,-73.993577
+IND,6 Avenue,Grand St,40.718267,-73.993753,B,D,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Chrystie St,Grand St,NW,40.718265,-73.993877
+IRT,Lexington,Canal St,40.718803,-74.000193,J,N,Q,R,Z,6,,,,,,Stair,YES,,YES,FULL,,TRUE,Bway Nass not ADA,TRUE,Lafayette St,Canal St,SE,40.718155,-74.000317
+IRT,Lexington,Canal St,40.718803,-74.000193,J,N,Q,R,Z,6,,,,,,Stair,YES,,YES,FULL,,TRUE,Bway Nass not ADA,TRUE,Lafayette St,Canal St,SE,40.718197,-74.000388
+IRT,Lexington,Canal St,40.718803,-74.000193,J,N,Q,R,Z,6,,,,,,Elevator,YES,,YES,NONE,,TRUE,Bway Nass not ADA,TRUE,Lafayette St,Canal St,NE,40.718304,-74.000138
+IRT,Lexington,Canal St,40.718803,-74.000193,J,N,Q,R,Z,6,,,,,,Stair,YES,,YES,NONE,,TRUE,Bway Nass not ADA,TRUE,Lafayette St,Canal St,NE,40.718358,-74.000216
+IRT,Lexington,Canal St,40.718803,-74.000193,J,N,Q,R,Z,6,,,,,,Elevator,NO,,NO,NONE,,TRUE,Bway Nass not ADA,TRUE,Lafayette St,Canal St,NW,40.718589,-74.000552
+IRT,Lexington,Canal St,40.718803,-74.000193,J,N,Q,R,Z,6,,,,,,Stair,NO,,NO,NONE,,TRUE,Bway Nass not ADA,TRUE,Lafayette St,Canal St,SW,40.718506,-74.000826
+IRT,Lexington,Canal St,40.718803,-74.000193,J,N,Q,R,Z,6,,,,,,Stair,NO,,NO,NONE,,TRUE,Bway Nass not ADA,TRUE,Lafayette St,Canal St,NW,40.718638,-74.000623
+IRT,Broadway-7th Ave,Franklin St,40.719318,-74.006886,1,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,West Broadway,Franklin St,SW,40.719001,-74.006675
+IRT,Broadway-7th Ave,Franklin St,40.719318,-74.006886,1,,,,,,,,,,,Stair,NO,Yes,NO,NONE,,FALSE,,FALSE,Varick St,North Moore St,NE,40.719918,-74.00662
+IRT,Broadway-7th Ave,Franklin St,40.719318,-74.006886,1,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Varick St,Franklin St,SW,40.718965,-74.007121
+IRT,Broadway-7th Ave,Franklin St,40.719318,-74.006886,1,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Varick St,Franklin St,NW,40.719251,-74.007058
+IRT,Broadway-7th Ave,Franklin St,40.719318,-74.006886,1,,,,,,,,,,,Stair,NO,Yes,NO,NONE,,FALSE,,FALSE,Varick St,North Moore St,NW,40.719888,-74.006925
+BMT,Broadway,Canal St (UL),40.719527,-74.001775,J,N,Q,R,Z,6,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,Broadway,Canal St,NW,40.719585,-74.00193
+BMT,Broadway,Canal St (UL),40.719527,-74.001775,J,N,Q,R,Z,6,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,Broadway,Canal St,NW,40.71966,-74.002019
+BMT,Broadway,Canal St (UL),40.719527,-74.001775,J,N,Q,R,Z,6,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,Broadway,Canal St,SW,40.719408,-74.002158
+BMT,Broadway,Canal St (UL),40.719527,-74.001775,J,N,Q,R,Z,6,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,Broadway,Canal St,SW,40.71946,-74.002236
+BMT,Broadway,Canal St (UL),40.719527,-74.001775,J,N,Q,R,Z,6,,,,,,Stair,YES,,YES,PART,6am-9:40pm everyday,FALSE,,TRUE,Broadway,Canal St,NE,40.719498,-74.001606
+BMT,Broadway,Canal St (UL),40.719527,-74.001775,J,N,Q,R,Z,6,,,,,,Stair,YES,,YES,PART,6am-9:40pm everyday,FALSE,,TRUE,Broadway,Canal St,SE,40.719218,-74.00185
+BMT,Broadway,Canal St (UL),40.719527,-74.001775,J,N,Q,R,Z,6,,,,,,Stair,YES,,YES,PART,6am-9:40pm everyday,FALSE,,TRUE,Broadway,Canal St,SE,40.719166,-74.001774
+BMT,Nassau,Bowery,40.72028,-73.993915,J,Z,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Bowery,Delancey St,SE,40.719977,-73.993576
+BMT,Nassau,Bowery,40.72028,-73.993915,J,Z,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Bowery,Delencey St,NE,40.720291,-73.993411
+IND,8 Avenue,Canal St,40.720824,-74.005229,A,C,E,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Lispenard St,West Broadway,NE,40.720704,-74.004999
+IND,8 Avenue,Canal St,40.720824,-74.005229,A,C,E,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,6th Ave,West Broadway,NW,40.720758,-74.005399
+IND,8 Avenue,Canal St,40.720824,-74.005229,A,C,E,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,St. John La,Laight St,SE,40.721651,-74.005634
+IND,8 Avenue,Canal St,40.720824,-74.005229,A,C,E,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Thompson St,Canal St,NE,40.721967,-74.005133
+IND,8 Avenue,Canal St,40.720824,-74.005229,A,C,E,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,6th Ave,Walker St,NE,40.71987,-74.005038
+IRT,Lexington,Spring St,40.722301,-73.997141,6,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Lafayette St,Spring St,SE,40.722116,-73.996912
+IRT,Lexington,Spring St,40.722301,-73.997141,6,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Lafayette St,Spring St,NE,40.722235,-73.996818
+IRT,Lexington,Spring St,40.722301,-73.997141,6,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Lafayette St,Spring St,NW,40.722468,-73.997397
+IRT,Lexington,Spring St,40.722301,-73.997141,6,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Lafayette St,Spring St,SW,40.72239,-73.997437
+IRT,Broadway-7th Ave,Canal St,40.722854,-74.006277,1,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Canal St,Varick St,NE,40.722569,-74.00608
+IRT,Broadway-7th Ave,Canal St,40.722854,-74.006277,1,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Canal St,Varick St,NE,40.722497,-74.005994
+IRT,Broadway-7th Ave,Canal St,40.722854,-74.006277,1,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Canal St,Varick St,NW,40.722932,-74.00662
+IRT,Broadway-7th Ave,Canal St,40.722854,-74.006277,1,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Canal St,Varick St,NW,40.722878,-74.006518
+BMT,Broadway,Prince St,40.724329,-73.997702,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,Prince St,SE,40.724124,-73.997686
+BMT,Broadway,Prince St,40.724329,-73.997702,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,Prince St,NE,40.72422,-73.997633
+BMT,Broadway,Prince St,40.724329,-73.997702,N,R,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Broadway,Prince St,SW,40.72426,-73.997957
+BMT,Broadway,Prince St,40.724329,-73.997702,N,R,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Broadway,Prince St,NW,40.724344,-73.997875
+IND,6 Avenue,Broadway-Lafayette St,40.725297,-73.996204,B,D,F,M,6,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Broadway,Houston St,NE,40.725202,-73.996583
+IND,6 Avenue,Broadway-Lafayette St,40.725297,-73.996204,B,D,F,M,6,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Broadway,Houston St,SE,40.725499,-73.996387
+IND,6 Avenue,Broadway-Lafayette St,40.725297,-73.996204,B,D,F,M,6,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,Crosby St,Houston St,NE,40.725344,-73.995612
+IND,6 Avenue,Broadway-Lafayette St,40.725297,-73.996204,B,D,F,M,6,,,,,,,Stair,NO,,NO,NONE,,FALSE,,TRUE,Lafayette St,Houston St,SW,40.724987,-73.995628
+IND,6 Avenue,Broadway-Lafayette St,40.725297,-73.996204,B,D,F,M,6,,,,,,,Stair,NO,,NO,NONE,,FALSE,,TRUE,Crosby St,Houston St,SE,40.725011,-73.995745
+IRT,Lexington,Bleecker St,40.725915,-73.994659,B,D,F,M,6,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Lafayette St,Mulberry St,SW,40.725726,-73.994579
+IRT,Lexington,Bleecker St,40.725915,-73.994659,B,D,F,M,6,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Lafayette St,Mulberry St,SE,40.725755,-73.994367
+IRT,Lexington,Bleecker St,40.725915,-73.994659,B,D,F,M,6,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Lafayette St,Mulberry St,NE,40.725845,-73.99432
+IRT,Lexington,Bleecker St,40.725915,-73.994659,B,D,F,M,6,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,,,,40.725137,-73.994938
+IRT,Lexington,Bleecker St,40.725915,-73.994659,B,D,F,M,6,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,,,,40.724888,-73.995291
+IRT,Lexington,Bleecker St,40.725915,-73.994659,B,D,F,M,6,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Lafayette St,Bleecker St,SW,40.725958,-73.994829
+IRT,Lexington,Bleecker St,40.725915,-73.994659,B,D,F,M,6,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Lafayette St,Bleecker St,NW,40.726047,-73.994759
+IND,8 Avenue,Spring St,40.726227,-74.003739,C,E,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,6th Ave,Spring St,NE,40.725583,-74.003747
+IND,8 Avenue,Spring St,40.726227,-74.003739,C,E,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,6th Ave,Spring St,NW,40.725595,-74.004326
+IND,8 Avenue,Spring St,40.726227,-74.003739,C,E,,,,,,,,,,Stair,YES,,NO,NONE,,FALSE,,TRUE,6th Ave,Vandam St,SW,40.726208,-74.00399
+IRT,Broadway-7th Ave,Houston St,40.728251,-74.005367,1,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Varick St,Houston St,SE,40.728472,-74.005188
+IRT,Broadway-7th Ave,Houston St,40.728251,-74.005367,1,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Varick St,Houston St,NE,40.728656,-74.005086
+IRT,Broadway-7th Ave,Houston St,40.728251,-74.005367,1,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Varick St,King St,SE,40.727739,-74.005305
+IRT,Broadway-7th Ave,Houston St,40.728251,-74.005367,1,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Varick St,King St,NE,40.727989,-74.005258
+IRT,Broadway-7th Ave,Houston St,40.728251,-74.005367,1,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Varick St,King St,SW,40.72784,-74.005681
+IRT,Broadway-7th Ave,Houston St,40.728251,-74.005367,1,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Varick St,King St,NW,40.727983,-74.00565
+IRT,Broadway-7th Ave,Houston St,40.728251,-74.005367,1,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Varick St,Houston St,SW,40.728561,-74.00554
+IRT,Broadway-7th Ave,Houston St,40.728251,-74.005367,1,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Varick St,Houston St,NW,40.728686,-74.005517
+IRT,Lexington,Astor Place,40.730054,-73.99107,6,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,4th Ave,East 8th St,NE,40.730084,-73.990838
+IRT,Lexington,Astor Place,40.730054,-73.99107,6,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Lafayette St,Astor Pl,NW,40.729968,-73.99141
+BMT,Broadway,8th St,40.730328,-73.992629,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,8th Ave,SE,40.730477,-73.992286
+BMT,Broadway,8th St,40.730328,-73.992629,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,8th Ave,NE,40.730578,-73.992216
+BMT,Broadway,8th St,40.730328,-73.992629,N,R,,,,,,,,,,Stair,YES,,NO,NONE,,FALSE,,FALSE,Broadway,Waverly Pl,NE,40.729678,-73.993051
+BMT,Broadway,8th St,40.730328,-73.992629,N,R,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Broadway,8th Ave,SW,40.730642,-73.992737
+BMT,Broadway,8th St,40.730328,-73.992629,N,R,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Broadway,8th Ave,SW,40.730592,-73.99262
+BMT,Broadway,8th St,40.730328,-73.992629,N,R,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Broadway,8th Ave,NW,40.730716,-73.992517
+BMT,Broadway,8th St,40.730328,-73.992629,N,R,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Broadway,8th Ave,NW,40.730773,-73.992641
+BMT,Broadway,8th St,40.730328,-73.992629,N,R,,,,,,,,,,Stair,NO,,NO,NONE,,FALSE,,FALSE,Broadway,Waverly Pl,NW,40.729778,-73.993262
+IND,8 Avenue,West 4th St,40.732338,-74.000495,A,B,C,D,E,F,M,,,,,Elevator,YES,,YES,FULL,,TRUE,,TRUE,,,,40.731086,-74.001209
+IND,8 Avenue,West 4th St,40.732338,-74.000495,A,B,C,D,E,F,M,,,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,6th Ave,West 3rd St,NW,40.731133,-74.001534
+IND,8 Avenue,West 4th St,40.732338,-74.000495,A,B,C,D,E,F,M,,,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,6th Ave,West 3rd St,NE,40.731091,-74.001127
+IND,8 Avenue,West 4th St,40.732338,-74.000495,A,B,C,D,E,F,M,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,6th Ave,Waverly Pl,NE,40.733067,-73.999728
+IND,8 Avenue,West 4th St,40.732338,-74.000495,A,B,C,D,E,F,M,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,6th Ave,Waverly Pl,NE,40.733259,-73.999615
+IND,8 Avenue,West 4th St,40.732338,-74.000495,A,B,C,D,E,F,M,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,6th Ave,Waverly Pl,NW,40.733072,-74.000192
+BMT,Canarsie,3rd Av,40.732849,-73.986122,L,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,3rd Ave,14th St,SE,40.732961,-73.986657
+BMT,Canarsie,3rd Av,40.732849,-73.986122,L,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,3rd Ave,14th St,SE,40.733134,-73.987041
+BMT,Canarsie,3rd Av,40.732849,-73.986122,L,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,3rd Ave,14th St,NE,40.733122,-73.986548
+BMT,Canarsie,3rd Av,40.732849,-73.986122,L,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,3rd Ave,14th St,NE,40.733277,-73.986931
+IRT,Broadway-7th Ave,Christopher St,40.733422,-74.002906,1,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,7th Ave,West 4th St,SE,40.733402,-74.002748
+IRT,Broadway-7th Ave,Christopher St,40.733422,-74.002906,1,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,7th Ave,Christopher St,SW,40.733515,-74.003147
+IRT,Broadway-7th Ave,Christopher St,40.733422,-74.002906,1,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,7th Ave,Christopher St,SW,40.733467,-74.003076
+IRT,Broadway-7th Ave,Christopher St,40.733422,-74.002906,1,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,7th Ave,Christopher St,NW,40.733634,-74.003123
+IRT,Broadway-7th Ave,Christopher St,40.733422,-74.002906,1,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,7th Ave,Christopher St,NW,40.733652,-74.003006
+IRT,Lexington,14th St-Union Square,40.734673,-73.989951,L,N,Q,R,4,5,6,,,,,Easement,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,14th St,NE,40.734406,-73.989437
+IRT,Lexington,14th St-Union Square,40.734673,-73.989951,L,N,Q,R,4,5,6,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,14th St,SE,40.73418,-73.989549
+IRT,Lexington,14th St-Union Square,40.734673,-73.989951,L,N,Q,R,4,5,6,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,14th St,SE,40.734222,-73.989674
+IRT,Lexington,14th St-Union Square,40.734673,-73.989951,L,N,Q,R,4,5,6,,,,,Easement,YES,,YES,NONE,,FALSE,,TRUE,4th Ave,15th St,SW,40.735184,-73.989793
+IRT,Lexington,14th St-Union Square,40.734673,-73.989951,L,N,Q,R,4,5,6,,,,,Stair,YES,,NO,NONE,,FALSE,,TRUE,4th Ave,14th St,SW,40.734495,-73.990311
+IRT,Lexington,14th St-Union Square,40.734673,-73.989951,L,N,Q,R,4,5,6,,,,,Stair,YES,,NO,NONE,,FALSE,,TRUE,4th Ave,14th St,SW,40.734444,-73.990184
+BMT,Canarsie,Union Square,40.734789,-73.99073,L,N,Q,R,4,5,6,,,,,Stair,YES,,YES,NONE,,TRUE,Lex not ADA,TRUE,Broadway,14th St,SW,40.734755,-73.990991
+BMT,Canarsie,Union Square,40.734789,-73.99073,L,N,Q,R,4,5,6,,,,,Stair,YES,,YES,NONE,,TRUE,Lex not ADA,TRUE,Broadway,14th St,SW,40.734859,-73.991235
+BMT,Broadway,Union Square,40.735736,-73.990568,L,N,Q,R,4,5,6,,,,,Stair,YES,,YES,FULL,,TRUE,Lex not ADA,TRUE,Broadway,14th St,NE,40.735278,-73.991058
+BMT,Broadway,Union Square,40.735736,-73.990568,L,N,Q,R,4,5,6,,,,,Stair,YES,,YES,NONE,,TRUE,Lex not ADA,TRUE,Broadway,16th St,SE,40.736339,-73.990603
+BMT,Broadway,Union Square,40.735736,-73.990568,L,N,Q,R,4,5,6,,,,,Stair,YES,,YES,NONE,,TRUE,Lex not ADA,TRUE,Broadway,16th St,NE,40.736523,-73.990447
+BMT,Broadway,Union Square,40.735736,-73.990568,L,N,Q,R,4,5,6,,,,,Stair,NO,,NO,NONE,,TRUE,Lex not ADA,TRUE,4th Ave,15th St,SW,40.735311,-73.990265
+BMT,Canarsie,6th Av,40.737335,-73.996786,F,L,M,1,2,3,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,6th Ave,14th St,SE,40.737197,-73.996704
+BMT,Canarsie,6th Av,40.737335,-73.996786,F,L,M,1,2,3,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,6th Ave,14th St,SE,40.737149,-73.996578
+IRT,Broadway-7th Ave,14th St,40.737826,-74.000201,F,L,M,1,2,3,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,7th Ave,14th St,SW,40.738484,-73.999914
+IRT,Broadway-7th Ave,14th St,40.737826,-74.000201,F,L,M,1,2,3,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,7th Ave,14th St,NW,40.738775,-73.999711
+IRT,Broadway-7th Ave,14th St,40.737826,-74.000201,F,L,M,1,2,3,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,7th Ave,14th St,NE,40.738585,-73.999405
+IRT,Broadway-7th Ave,14th St,40.737826,-74.000201,F,L,M,1,2,3,,,,,,Stair,YES,,NO,NONE,,FALSE,,TRUE,7th Ave,14th St,SE,40.738358,-73.999656
+IRT,Broadway-7th Ave,14th St,40.737826,-74.000201,F,L,M,1,2,3,,,,,,Stair,YES,Yes,NO,NONE,,FALSE,,TRUE,7th Ave,13th St,NW,40.738013,-74.000329
+IRT,Broadway-7th Ave,14th St,40.737826,-74.000201,F,L,M,1,2,3,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,7th Ave,12th St,NW,40.737388,-74.000815
+IRT,Broadway-7th Ave,14th St,40.737826,-74.000201,F,L,M,1,2,3,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,7th Ave,12th St,NE,40.737197,-74.0004
+IRT,Broadway-7th Ave,14th St,40.737826,-74.000201,F,L,M,1,2,3,,,,,,Stair,NO,Yes,NO,NONE,,FALSE,,TRUE,7th Ave,13th St,NE,40.737846,-73.99993
+IND,6 Avenue,14th St,40.738228,-73.996209,F,L,M,1,2,3,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,6th Ave,14th St,SW,40.737423,-73.99722
+IND,6 Avenue,14th St,40.738228,-73.996209,F,L,M,1,2,3,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,6th Ave,14th St,NW,40.737572,-73.997111
+IND,6 Avenue,14th St,40.738228,-73.996209,F,L,M,1,2,3,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,6th Ave,14th St,NW,40.737519,-73.99697
+IND,6 Avenue,14th St,40.738228,-73.996209,F,L,M,1,2,3,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,6th Ave,14th St,SW,40.73737,-73.997079
+IND,6 Avenue,14th St,40.738228,-73.996209,F,L,M,1,2,3,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,6th Ave,16th St,NE,40.738678,-73.995632
+IND,6 Avenue,14th St,40.738228,-73.996209,F,L,M,1,2,3,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,6th Ave,16th St,SE,40.738529,-73.995685
+IND,6 Avenue,14th St,40.738228,-73.996209,F,L,M,1,2,3,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,6th Ave,16th St,NW,40.738838,-73.996023
+IND,6 Avenue,14th St,40.738228,-73.996209,F,L,M,1,2,3,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,6th Ave,16th St,SW,40.738718,-73.996121
+IND,6 Avenue,14th St,40.738228,-73.996209,F,L,M,1,2,3,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,6th Ave,14th St,NE,40.737286,-73.996437
+IND,6 Avenue,14th St,40.738228,-73.996209,F,L,M,1,2,3,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,6th Ave,14th St,NE,40.737316,-73.996508
+BMT,Canarsie,8th Av,40.739777,-74.002578,A,C,E,L,,,,,,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,8th Ave,14th St,SE,40.73955,-74.002389
+BMT,Canarsie,8th Av,40.739777,-74.002578,A,C,E,L,,,,,,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,8th Ave,14th St,SW,40.739734,-74.002804
+IRT,Lexington,23rd St,40.739864,-73.986599,6,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,In Planning,FALSE,Park Ave,23rd St,SE,40.740008,-73.986233
+IRT,Lexington,23rd St,40.739864,-73.986599,6,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,In Planning,FALSE,Park Ave,23rd St,SE,40.739984,-73.986343
+IRT,Lexington,23rd St,40.739864,-73.986599,6,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,In Planning,FALSE,Park Ave,23rd St,NE,40.74018,-73.986006
+IRT,Lexington,23rd St,40.739864,-73.986599,6,,,,,,,,,,,Easement,YES,,YES,NONE,,FALSE,In Planning,FALSE,Park Ave,23rd St,NW,40.740419,-73.986452
+IRT,Lexington,23rd St,40.739864,-73.986599,6,,,,,,,,,,,Easement,YES,,YES,NONE,,FALSE,In Planning,FALSE,Park Ave,22nd St,SW,40.739501,-73.987134
+IRT,Lexington,23rd St,40.739864,-73.986599,6,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,In Planning,FALSE,Park Ave,23rd St,SW,40.740097,-73.986601
+IRT,Lexington,23rd St,40.739864,-73.986599,6,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,In Planning,FALSE,Park Ave,23rd St,SW,40.74018,-73.986617
+IRT,Lexington,23rd St,40.739864,-73.986599,6,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,In Planning,FALSE,Park Ave,22nd St,NW,40.739674,-73.98704
+IRT,Lexington,23rd St,40.739864,-73.986599,6,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,In Planning,FALSE,Park Ave,22nd St,NE,40.739477,-73.986562
+IND,8 Avenue,14th St,40.740893,-74.00169,A,C,E,L,,,,,,,,Easement,YES,,YES,FULL,,TRUE,,TRUE,8th Ave,16th St,SW,40.740938,-74.001919
+IND,8 Avenue,14th St,40.740893,-74.00169,A,C,E,L,,,,,,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,8th Ave,16th St,NW,40.741235,-74.001715
+IND,8 Avenue,14th St,40.740893,-74.00169,A,C,E,L,,,,,,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,8th Ave,16th St,SE,40.740944,-74.001402
+IND,8 Avenue,14th St,40.740893,-74.00169,A,C,E,L,,,,,,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,8th Ave,16th St,NE,40.741046,-74.001284
+IND,8 Avenue,14th St,40.740893,-74.00169,A,C,E,L,,,,,,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,8th Ave,14th St,NW,40.739949,-74.002655
+IND,8 Avenue,14th St,40.740893,-74.00169,A,C,E,L,,,,,,,,Stair,NO,,NO,NONE,,TRUE,,TRUE,8th Ave,15th St,NE,40.74041,-74.00175
+IND,8 Avenue,14th St,40.740893,-74.00169,A,C,E,L,,,,,,,,Stair,NO,,NO,NONE,,TRUE,,TRUE,8th Ave,15th St,NW,40.740598,-74.002185
+IND,8 Avenue,14th St,40.740893,-74.00169,A,C,E,L,,,,,,,,Stair,NO,,NO,NONE,,TRUE,,TRUE,8th Ave,14th St,NE,40.739776,-74.002256
+IRT,Broadway-7th Ave,18th St,40.74104,-73.997871,1,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,7th Ave,18th St,SE,40.74092,-73.997698
+IRT,Broadway-7th Ave,18th St,40.74104,-73.997871,1,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,7th Ave,18th St,NE,40.741015,-73.99758
+IRT,Broadway-7th Ave,18th St,40.74104,-73.997871,1,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,7th Ave,18th St,SW,40.741081,-73.998105
+IRT,Broadway-7th Ave,18th St,40.74104,-73.997871,1,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,7th Ave,18th St,NW,40.741206,-73.998035
+IRT,Broadway-7th Ave,18th St,40.74104,-73.997871,1,,,,,,,,,,,Stair,NO,Yes,NO,NONE,,FALSE,,FALSE,7th Ave,18th St,NW,40.741783,-73.997557
+IRT,Broadway-7th Ave,18th St,40.74104,-73.997871,1,,,,,,,,,,,Stair,NO,Yes,NO,NONE,,FALSE,,FALSE,7th Ave,18th St,NE,40.741617,-73.997197
+BMT,Broadway,23rd St,40.741303,-73.989344,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,23rd St,SE,40.74108,-73.989083
+BMT,Broadway,23rd St,40.741303,-73.989344,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,23rd St,SE,40.741111,-73.98892
+BMT,Broadway,23rd St,40.741303,-73.989344,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,23rd St,NE,40.741378,-73.988895
+BMT,Broadway,23rd St,40.741303,-73.989344,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,23rd St,NE,40.741539,-73.988989
+BMT,Broadway,23rd St,40.741303,-73.989344,N,R,,,,,,,,,,Stair,YES,,NO,NONE,,FALSE,,FALSE,Broadway,22nd St,NE,40.740643,-73.989217
+BMT,Broadway,23rd St,40.741303,-73.989344,N,R,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,5th Ave,22nd St,NE,40.741208,-73.989639
+BMT,Broadway,23rd St,40.741303,-73.989344,N,R,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Broadway,23rd St,NW,40.741913,-73.989428
+BMT,Broadway,23rd St,40.741303,-73.989344,N,R,,,,,,,,,,Stair,NO,Yes,NO,NONE,,FALSE,,FALSE,Broadway,22nd St,NW,40.740758,-73.989632
+IND,6 Avenue,23rd St,40.742878,-73.992821,F,M,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,6th Ave,23rd St,SE,40.742659,-73.992489
+IND,6 Avenue,23rd St,40.742878,-73.992821,F,M,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,6th Ave,23rd St,SE,40.742715,-73.992617
+IND,6 Avenue,23rd St,40.742878,-73.992821,F,M,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,6th Ave,23rd St,NE,40.74288,-73.992506
+IND,6 Avenue,23rd St,40.742878,-73.992821,F,M,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,6th Ave,23rd St,NE,40.742825,-73.992383
+IND,6 Avenue,23rd St,40.742878,-73.992821,F,M,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,6th Ave,23rd St,NW,40.743121,-73.993099
+IND,6 Avenue,23rd St,40.742878,-73.992821,F,M,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,6th Ave,23rd St,NW,40.743066,-73.992971
+IND,6 Avenue,23rd St,40.742878,-73.992821,F,M,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,6th Ave,23rd St,SW,40.742977,-73.993188
+IND,6 Avenue,23rd St,40.742878,-73.992821,F,M,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,6th Ave,23rd St,SW,40.742922,-73.993066
+IRT,Lexington,28th St,40.74307,-73.984264,6,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Park Ave,28th St,SE,40.743128,-73.983806
+IRT,Lexington,28th St,40.74307,-73.984264,6,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Park Ave,28th St,SE,40.743167,-73.983896
+IRT,Lexington,28th St,40.74307,-73.984264,6,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Park Ave,28th St,NE,40.743304,-73.983857
+IRT,Lexington,28th St,40.74307,-73.984264,6,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Park Ave,28th St,NE,40.743257,-73.983738
+IRT,Lexington,28th St,40.74307,-73.984264,6,,,,,,,,,,,Easement,YES,,YES,NONE,,FALSE,,FALSE,Park Ave,28th St,NW,40.743484,-73.98428
+IRT,Lexington,28th St,40.74307,-73.984264,6,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Park Ave,28th St,SW,40.743394,-73.984409
+IRT,Lexington,28th St,40.74307,-73.984264,6,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Park Ave,28th St,SW,40.743351,-73.984302
+IRT,Broadway-7th Ave,23rd St,40.744081,-73.995657,1,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,7th Ave,23rd St,SE,40.74391,-73.995608
+IRT,Broadway-7th Ave,23rd St,40.744081,-73.995657,1,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,7th Ave,23rd St,NE,40.74412,-73.995348
+IRT,Broadway-7th Ave,23rd St,40.744081,-73.995657,1,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,7th Ave,23rd St,SW,40.744017,-73.995901
+IRT,Broadway-7th Ave,23rd St,40.744081,-73.995657,1,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,7th Ave,23rd St,NW,40.744313,-73.995811
+BMT,Broadway,28th St,40.745494,-73.988691,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,28th St,SE,40.745089,-73.988472
+BMT,Broadway,28th St,40.745494,-73.988691,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,28th St,NE,40.745299,-73.988579
+BMT,Broadway,28th St,40.745494,-73.988691,N,R,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Broadway,28th St,SW,40.745281,-73.988923
+BMT,Broadway,28th St,40.745494,-73.988691,N,R,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Broadway,28th St,NW,40.745488,-73.98901
+IND,8 Avenue,23rd St,40.745906,-73.998041,C,E,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,8th Ave,23rd St,SE,40.745102,-73.998365
+IND,8 Avenue,23rd St,40.745906,-73.998041,C,E,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,8th Ave,23rd St,NE,40.745299,-73.998145
+IND,8 Avenue,23rd St,40.745906,-73.998041,C,E,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,8th Ave,25th St,NW,40.746732,-73.997711
+IND,8 Avenue,23rd St,40.745906,-73.998041,C,E,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,8th Ave,25th St,SW,40.746603,-73.997801
+IND,8 Avenue,23rd St,40.745906,-73.998041,C,E,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,8th Ave,23rd St,SW,40.745278,-73.998771
+IND,8 Avenue,23rd St,40.745906,-73.998041,C,E,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,8th Ave,23rd St,NW,40.745505,-73.998642
+IND,8 Avenue,23rd St,40.745906,-73.998041,C,E,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,8th Ave,25th St,NE,40.746535,-73.997271
+IND,8 Avenue,23rd St,40.745906,-73.998041,C,E,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,8th Ave,25th St,NE,40.746483,-73.997142
+IND,8 Avenue,23rd St,40.745906,-73.998041,C,E,,,,,,,,,,Stair,NO,Yes,NO,NONE,,FALSE,,TRUE,8th Ave,24th St,NW,40.74611,-73.998145
+IND,8 Avenue,23rd St,40.745906,-73.998041,C,E,,,,,,,,,,Stair,NO,Yes,NO,NONE,,FALSE,,TRUE,8th Ave,24th St,SE,40.745814,-73.997852
+IND,8 Avenue,23rd St,40.745906,-73.998041,C,E,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,8th Ave,25th St,SE,40.746427,-73.99735
+IRT,Lexington,33rd St,40.746081,-73.982076,6,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Park Ave,33rd St,SE,40.746263,-73.981663
+IRT,Lexington,33rd St,40.746081,-73.982076,6,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Park Ave,33rd St,SE,40.746242,-73.9816
+IRT,Lexington,33rd St,40.746081,-73.982076,6,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Park Ave,33rd St,NE,40.74655,-73.981533
+IRT,Lexington,33rd St,40.746081,-73.982076,6,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Park Ave,32nd St,SE,40.745585,-73.982198
+IRT,Lexington,33rd St,40.746081,-73.982076,6,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Park Ave,32nd St,SE,40.745641,-73.982103
+IRT,Lexington,33rd St,40.746081,-73.982076,6,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Park Ave,33rd St,SW,40.746447,-73.982147
+IRT,Lexington,33rd St,40.746081,-73.982076,6,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Park Ave,33rd St,NW,40.746632,-73.981882
+IRT,Lexington,33rd St,40.746081,-73.982076,6,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Park Ave,32nd St,SW,40.745723,-73.982531
+IRT,Lexington,33rd St,40.746081,-73.982076,6,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,Park Ave,32nd St,SW,40.745821,-73.982576
+IRT,Broadway-7th Ave,28th St,40.747215,-73.993365,1,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,7th Ave,28th St,SW,40.747264,-73.993611
+IRT,Broadway-7th Ave,28th St,40.747215,-73.993365,1,,,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,FALSE,7th Ave,28th St,NW,40.747392,-73.99351
+IRT,Broadway-7th Ave,28th St,40.747215,-73.993365,1,,,,,,,,,,,Stair,NO,Yes,NO,NONE,,FALSE,,FALSE,7th Ave,27th St,NW,40.746787,-73.993955
+IRT,Broadway-7th Ave,28th St,40.747215,-73.993365,1,,,,,,,,,,,Stair,NO,Yes,NO,NONE,,FALSE,,FALSE,7th Ave,27th St,NE,40.746594,-73.993555
+IRT,Broadway-7th Ave,28th St,40.747215,-73.993365,1,,,,,,,,,,,Stair,YES,,YES,PART,5:50am-1:10pm everyday,FALSE,,FALSE,7th Ave,28th St,SE,40.747036,-73.993138
+IRT,Broadway-7th Ave,28th St,40.747215,-73.993365,1,,,,,,,,,,,Stair,YES,,YES,PART,5:50am-1:10pm everyday,FALSE,,FALSE,7th Ave,28th St,NE,40.747216,-73.993121
+BMT,Broadway,34th St,40.749567,-73.98795,B,D,F,M,N,Q,R,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,6th Ave,34th St,SE,40.74959,-73.98762
+BMT,Broadway,34th St,40.749567,-73.98795,B,D,F,M,N,Q,R,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,6th Ave,34th St,NE,40.749891,-73.987495
+BMT,Broadway,34th St,40.749567,-73.98795,B,D,F,M,N,Q,R,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,Broadway,32nd St,NE,40.748294,-73.987976
+BMT,Broadway,34th St,40.749567,-73.98795,B,D,F,M,N,Q,R,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,Broadway,32nd St,NW,40.748477,-73.988288
+IND,6 Avenue,34th St,40.749719,-73.987823,B,D,F,M,N,Q,R,,,,,Elevator,YES,,YES,FULL,,TRUE,,TRUE,,,,40.749615,-73.988159
+IND,6 Avenue,34th St,40.749719,-73.987823,B,D,F,M,N,Q,R,,,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,Broadway,34th St,SW,40.749845,-73.988254
+IND,6 Avenue,34th St,40.749719,-73.987823,B,D,F,M,N,Q,R,,,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,Broadway,34th St,NW,40.750088,-73.988142
+IND,6 Avenue,34th St,40.749719,-73.987823,B,D,F,M,N,Q,R,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,Broadway,35th St,SW,40.750674,-73.988031
+IND,6 Avenue,34th St,40.749719,-73.987823,B,D,F,M,N,Q,R,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,6th Ave,35th St,SE,40.750271,-73.987066
+IND,6 Avenue,34th St,40.749719,-73.987823,B,D,F,M,N,Q,R,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,Broadway,35th St,NW,40.75088,-73.988096
+IND,6 Avenue,34th St,40.749719,-73.987823,B,D,F,M,N,Q,R,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,6th Ave,35th St,NW,40.750647,-73.987346
+IND,6 Avenue,34th St,40.749719,-73.987823,B,D,F,M,N,Q,R,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,6th Ave,35th St,NE,40.750404,-73.986989
+IND,6 Avenue,34th St,40.749719,-73.987823,B,D,F,M,N,Q,R,,,,,Easement,YES,,YES,PART,6:35am-9:40pm everyday,TRUE,,TRUE,6th Ave,33rd St,SW,40.74895,-73.988623
+IND,6 Avenue,34th St,40.749719,-73.987823,B,D,F,M,N,Q,R,,,,,Easement,YES,,YES,PART,6:35am-9:40pm everyday,TRUE,,TRUE,6th Ave,32nd St,NW,40.748746,-73.988774
+IRT,Broadway-7th Ave,34th St,40.750373,-73.991057,1,2,3,,,,,,,,,Easement,YES,,YES,FULL,,TRUE,,TRUE,7th Ave,34th St,SW,40.751046,-73.991271
+IRT,Broadway-7th Ave,34th St,40.750373,-73.991057,1,2,3,,,,,,,,,Easement,YES,,YES,NONE,,TRUE,,TRUE,7th Ave,32nd St,NE,40.749656,-73.99113
+IRT,Broadway-7th Ave,34th St,40.750373,-73.991057,1,2,3,,,,,,,,,Easement,YES,,YES,NONE,,TRUE,,TRUE,7th Ave,33rd St,SE,40.750077,-73.99082
+IRT,Broadway-7th Ave,34th St,40.750373,-73.991057,1,2,3,,,,,,,,,Easement,YES,,YES,NONE,,TRUE,,TRUE,7th Ave,33rd St,NE,40.750283,-73.99065
+IRT,Broadway-7th Ave,34th St,40.750373,-73.991057,1,2,3,,,,,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,7th Ave,33rd St,NE,40.750313,-73.990854
+IRT,Broadway-7th Ave,34th St,40.750373,-73.991057,1,2,3,,,,,,,,,Stair,YES,,NO,NONE,,TRUE,,TRUE,7th Ave,33rd St,NW,40.750476,-73.991254
+IRT,Broadway-7th Ave,34th St,40.750373,-73.991057,1,2,3,,,,,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,7th Ave,34th St,SW,40.750982,-73.990899
+IRT,Broadway-7th Ave,34th St,40.750373,-73.991057,1,2,3,,,,,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,7th Ave,34th St,NW,40.751187,-73.990791
+IRT,Broadway-7th Ave,34th St,40.750373,-73.991057,1,2,3,,,,,,,,,Easement,YES,,YES,PART,5:50am-1:10pm everyday,TRUE,,TRUE,7th Ave,32nd St,W,40.74979,-73.991721
+IRT,Broadway-7th Ave,34th St,40.750373,-73.991057,1,2,3,,,,,,,,,Easement,YES,,YES,PART,3:30pm-11pm everyday,TRUE,,TRUE,7th Ave,34th St,SE,40.75081,-73.990481
+IRT,Broadway-7th Ave,34th St,40.750373,-73.991057,1,2,3,,,,,,,,,Stair,YES,,YES,PART,3:30pm-11pm everyday,TRUE,,TRUE,7th Ave,34th St,NE,40.75102,-73.990323
+IRT,Flushing,Grand Central-42nd St,40.751431,-73.976041,GS,4,5,6,7,,,,,,,Easement,YES,,YES,NONE,,TRUE,,TRUE,3rd Ave,42nd St,SW,40.750851,-73.975078
+IRT,Lexington,Grand Central-42nd St,40.751776,-73.976848,GS,4,5,6,7,,,,,,,Easement,YES,,YES,NONE,,TRUE,,TRUE,Park Ave,42nd St,SE,40.751741,-73.977691
+IRT,Lexington,Grand Central-42nd St,40.751776,-73.976848,GS,4,5,6,7,,,,,,,Easement,YES,,YES,NONE,,TRUE,,TRUE,Park Ave,42nd St,SE,40.751653,-73.977753
+IRT,Lexington,Grand Central-42nd St,40.751776,-73.976848,GS,4,5,6,7,,,,,,,Easement,YES,,YES,NONE,,TRUE,,TRUE,Lexington Ave,42nd St,SW,40.751352,-73.976396
+IRT,Lexington,Grand Central-42nd St,40.751776,-73.976848,GS,4,5,6,7,,,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,Park Ave,42nd St,SE,40.751647,-73.977382
+IRT,Lexington,Grand Central-42nd St,40.751776,-73.976848,GS,4,5,6,7,,,,,,,Easement,NO,Yes,NO,NONE,,TRUE,,TRUE,Park Ave,42nd St,SE,40.751721,-73.977197
+IRT,Lexington,Grand Central-42nd St,40.751776,-73.976848,GS,4,5,6,7,,,,,,,Easement,YES,,YES,PART,11am-7pm everyday,TRUE,,TRUE,Lexington Ave,43rd St,SE,40.751801,-73.975294
+IRT,Lexington,Grand Central-42nd St,40.751776,-73.976848,GS,4,5,6,7,,,,,,,Easement,YES,,YES,PART,11am-7pm everyday,TRUE,,TRUE,Lexington Ave,42nd St,NE,40.751345,-73.975409
+IRT,Lexington,Grand Central-42nd St,40.751776,-73.976848,GS,4,5,6,7,,,,,,,Stair,YES,,YES,PART,11am-7pm everyday,TRUE,,TRUE,Lexington Ave,42nd St,NW,40.751701,-73.976087
+IND,8 Avenue,34th St,40.752287,-73.993391,A,C,E,,,,,,,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,8th Ave,34th St,SE,40.75202,-73.993352
+IND,8 Avenue,34th St,40.752287,-73.993391,A,C,E,,,,,,,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,8th Ave,34th St,NE,40.752161,-73.993109
+IND,8 Avenue,34th St,40.752287,-73.993391,A,C,E,,,,,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,8th Ave,35th St,SE,40.752689,-73.992742
+IND,8 Avenue,34th St,40.752287,-73.993391,A,C,E,,,,,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,8th Ave,35th St,NE,40.752796,-73.992669
+IND,8 Avenue,34th St,40.752287,-73.993391,A,C,E,,,,,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,8th Ave,35th St,NE,40.752766,-73.992596
+IND,8 Avenue,34th St,40.752287,-73.993391,A,C,E,,,,,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,8th Ave,35th St,SW,40.752877,-73.993244
+IND,8 Avenue,34th St,40.752287,-73.993391,A,C,E,,,,,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,8th Ave,35th St,NW,40.753053,-73.993256
+IND,8 Avenue,34th St,40.752287,-73.993391,A,C,E,,,,,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,8th Ave,35th St,NW,40.753032,-73.993188
+IND,8 Avenue,34th St,40.752287,-73.993391,A,C,E,,,,,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,8th Ave,34th St,SW,40.752178,-73.993701
+IND,8 Avenue,34th St,40.752287,-73.993391,A,C,E,,,,,,,,,Stair,YES,,YES,NONE,,TRUE,,TRUE,8th Ave,34th St,NW,40.752427,-73.993679
+IND,8 Avenue,34th St,40.752287,-73.993391,A,C,E,,,,,,,,,Stair,YES,,YES,PART,6am-9:30am everyday,TRUE,,TRUE,8th Ave,33rd St,SE,40.751291,-73.993887
+IND,8 Avenue,34th St,40.752287,-73.993391,A,C,E,,,,,,,,,Stair,YES,,YES,PART,6am-9:30am everyday,TRUE,,TRUE,8th Ave,33rd St,NE,40.751432,-73.993538
+IND,8 Avenue,34th St,40.752287,-73.993391,A,C,E,,,,,,,,,Stair,YES,,YES,PART,6:30am-10:10pm everyday,TRUE,,TRUE,8th Ave,33rd St,NW,40.751677,-73.994107
+IND,8 Avenue,34th St,40.752287,-73.993391,A,C,E,,,,,,,,,Stair,YES,,YES,PART,6:30am-10:10pm everyday,TRUE,,TRUE,8th Ave,33rd St,SW,40.751561,-73.994243
+IND,8 Avenue,34th St,40.752287,-73.993391,A,C,E,,,,,,,,,Stair,YES,,YES,PART,6:30am-10:10pm everyday,TRUE,,TRUE,8th Ave,33rd St,SW,40.751539,-73.994181
+IRT,42nd St Shuttle,Grand Central,40.752769,-73.979189,GS,4,5,6,7,,,,,,,Easement,YES,,YES,NONE,,TRUE,,TRUE,Madison Ave,42nd St,NE,40.75283,-73.978917
+IRT,42nd St Shuttle,Grand Central,40.752769,-73.979189,GS,4,5,6,7,,,,,,,Easement,YES,,YES,NONE,,TRUE,,TRUE,Vanderbilt Ave,42nd St,SE,40.752218,-73.978396
+IRT,42nd St Shuttle,Grand Central,40.752769,-73.979189,GS,4,5,6,7,,,,,,,Easement,YES,,YES,NONE,,TRUE,,TRUE,Vanderbilt Ave,42nd St,SE,40.752279,-73.97828
+IRT,42nd St Shuttle,Grand Central,40.752769,-73.979189,GS,4,5,6,7,,,,,,,Easement,YES,,YES,NONE,,TRUE,,TRUE,Vanderbilt Ave,42nd St,NW,40.752717,-73.978487
+IRT,42nd St Shuttle,Grand Central,40.752769,-73.979189,GS,4,5,6,7,,,,,,,Escalator,YES,,YES,NONE,,TRUE,,TRUE,Park Ave,42nd St,SW,40.752184,-73.978048
+IRT,42nd St Shuttle,Grand Central,40.752769,-73.979189,GS,4,5,6,7,,,,,,,Easement,NO,,NO,NONE,,TRUE,,TRUE,Madison Ave,42nd St,SW,40.752846,-73.979798
+IRT,42nd St Shuttle,Grand Central,40.752769,-73.979189,GS,4,5,6,7,,,,,,,Stair,NO,,NO,NONE,,TRUE,,TRUE,Madison Ave,42nd St,NW,40.753087,-73.979537
+IND,6 Avenue,42nd St,40.754222,-73.984569,B,D,F,M,7,,,,,,,Easement,YES,,YES,FULL,,FALSE,,TRUE,6th Ave,42nd St,SW,40.754849,-73.984627
+IND,6 Avenue,42nd St,40.754222,-73.984569,B,D,F,M,7,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,6th Ave,42nd St,SE,40.754609,-73.983894
+IND,6 Avenue,42nd St,40.754222,-73.984569,B,D,F,M,7,,,,,,,Easement,YES,,YES,NONE,,FALSE,,TRUE,6th Ave,40th St,NW,40.753709,-73.985084
+IND,6 Avenue,42nd St,40.754222,-73.984569,B,D,F,M,7,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,6th Ave,42nd St,NW,40.755333,-73.983934
+IND,6 Avenue,42nd St,40.754222,-73.984569,B,D,F,M,7,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,6th Ave,42nd St,NW,40.755008,-73.984249
+IND,6 Avenue,42nd St,40.754222,-73.984569,B,D,F,M,7,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,6th Ave,42nd St,NE,40.754832,-73.983657
+IND,6 Avenue,42nd St,40.754222,-73.984569,B,D,F,M,7,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,6th Ave,40th St,SW,40.753473,-73.985259
+IND,6 Avenue,42nd St,40.754222,-73.984569,B,D,F,M,7,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,6th Ave,40th St,SE,40.753408,-73.984892
+IND,6 Avenue,42nd St,40.754222,-73.984569,B,D,F,M,7,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,6th Ave,40th St,NE,40.753546,-73.984779
+BMT,Broadway,Times Square-42nd St,40.754672,-73.986754,A,C,E,N,Q,R,S,1,2,3,7,Stair,YES,,YES,NONE,,TRUE,Shuttle not ADA,TRUE,Broadway,40th St,SE,40.754172,-73.98668
+BMT,Broadway,Times Square-42nd St,40.754672,-73.986754,A,C,E,N,Q,R,S,1,2,3,7,Stair,YES,,YES,NONE,,TRUE,Shuttle not ADA,TRUE,Broadway,40th St,SW,40.754335,-73.987097
+BMT,Broadway,Times Square-42nd St,40.754672,-73.986754,A,C,E,N,Q,R,S,1,2,3,7,Stair,YES,,YES,NONE,,TRUE,Shuttle not ADA,TRUE,Broadway,40th St,NE,40.754301,-73.986623
+BMT,Broadway,Times Square-42nd St,40.754672,-73.986754,A,C,E,N,Q,R,S,1,2,3,7,Stair,YES,,YES,NONE,,TRUE,Shuttle not ADA,TRUE,Broadway,40th St,NW,40.754507,-73.987108
+IRT,Broadway-7th Ave,Times Square,40.75529,-73.987495,A,C,E,N,Q,R,S,1,2,3,7,Easement,YES,,YES,FULL,,TRUE,,TRUE,7th Ave,42nd St,NW,40.756241,-73.987133
+IRT,Broadway-7th Ave,Times Square,40.75529,-73.987495,A,C,E,N,Q,R,S,1,2,3,7,Stair,YES,,YES,FULL,,TRUE,,TRUE,7th Ave,42nd St,SW,40.756042,-73.987242
+IRT,Broadway-7th Ave,Times Square,40.75529,-73.987495,A,C,E,N,Q,R,S,1,2,3,7,Easement,YES,,YES,NONE,,TRUE,,TRUE,7th Ave,40th St,SW,40.754691,-73.988067
+IRT,Broadway-7th Ave,Times Square,40.75529,-73.987495,A,C,E,N,Q,R,S,1,2,3,7,Stair,YES,,YES,NONE,,TRUE,,TRUE,7th Ave,40th St,SE,40.754568,-73.987827
+IRT,Broadway-7th Ave,Times Square,40.75529,-73.987495,A,C,E,N,Q,R,S,1,2,3,7,Stair,YES,,YES,NONE,,TRUE,,TRUE,7th Ave,41st St,NW,40.755554,-73.987679
+IRT,Broadway-7th Ave,Times Square,40.75529,-73.987495,A,C,E,N,Q,R,S,1,2,3,7,Stair,YES,,YES,NONE,,TRUE,,TRUE,Broadway,42nd St,SE,40.755575,-73.986311
+IRT,Broadway-7th Ave,Times Square,40.75529,-73.987495,A,C,E,N,Q,R,S,1,2,3,7,Easement,YES,,YES,PART,3pm-10:30pm everyday,TRUE,,TRUE,7th Ave,42nd St,SE,40.755747,-73.986875
+IRT,Broadway-7th Ave,Times Square,40.75529,-73.987495,A,C,E,N,Q,R,S,1,2,3,7,Stair,YES,,YES,PART,7:30am-11:20pm everyday,TRUE,,TRUE,7th Ave,41st St,SE,40.755248,-73.987362
+IRT,Broadway-7th Ave,Times Square,40.75529,-73.987495,A,C,E,N,Q,R,S,1,2,3,7,Stair,YES,,YES,PART,7:30am-11:20pm everyday,TRUE,,TRUE,7th Ave,41st St,SE,40.755334,-73.9872
+IRT,42nd St Shuttle,Times Square,40.755983,-73.986229,A,C,E,N,Q,R,GS,1,2,3,7,Stair,YES,,YES,NONE,,FALSE,,TRUE,Broadway,43rd St,SW,40.756476,-73.986311
+IND,8 Avenue,42nd St,40.757308,-73.989735,A,C,E,N,Q,R,S,1,2,3,7,Easement,YES,,YES,FULL,,TRUE,,TRUE,8th Ave,42nd St,NE,40.757286,-73.989582
+IND,8 Avenue,42nd St,40.757308,-73.989735,A,C,E,N,Q,R,S,1,2,3,7,Easement,YES,,YES,FULL,,TRUE,,TRUE,8th Ave,40th St,SW,40.755989,-73.991049
+IND,8 Avenue,42nd St,40.757308,-73.989735,A,C,E,N,Q,R,S,1,2,3,7,Stair,YES,,YES,FULL,,TRUE,,TRUE,8th Ave,40th St,SE,40.755801,-73.990576
+IND,8 Avenue,42nd St,40.757308,-73.989735,A,C,E,N,Q,R,S,1,2,3,7,Stair,YES,,YES,FULL,,TRUE,,TRUE,8th Ave,40th St,NW,40.756101,-73.990887
+IND,8 Avenue,42nd St,40.757308,-73.989735,A,C,E,N,Q,R,S,1,2,3,7,Stair,YES,,YES,NONE,,TRUE,,TRUE,8th Ave,44th St,SW,40.758567,-73.989053
+IND,8 Avenue,42nd St,40.757308,-73.989735,A,C,E,N,Q,R,S,1,2,3,7,Stair,YES,,YES,NONE,,TRUE,,TRUE,8th Ave,44th St,SE,40.758401,-73.988673
+IND,8 Avenue,42nd St,40.757308,-73.989735,A,C,E,N,Q,R,S,1,2,3,7,Stair,YES,,YES,NONE,,TRUE,,TRUE,8th Ave,44th St,NW,40.758685,-73.98899
+IND,8 Avenue,42nd St,40.757308,-73.989735,A,C,E,N,Q,R,S,1,2,3,7,Stair,NO,,NO,NONE,,TRUE,,TRUE,8th Ave,43rd St,SW,40.757929,-73.989547
+IND,8 Avenue,42nd St,40.757308,-73.989735,A,C,E,N,Q,R,S,1,2,3,7,Stair,NO,,NO,NONE,,TRUE,,TRUE,8th Ave,42nd St,NW,40.757463,-73.989984
+BMT,Broadway,49th St,40.759901,-73.984139,N,Q,R,,,,,,,,,Stair,YES,,YES,FULL,,TRUE,Northbound Only,FALSE,7th Ave,49th St,SW,40.760486,-73.983974
+BMT,Broadway,49th St,40.759901,-73.984139,N,Q,R,,,,,,,,,Stair,YES,,YES,FULL,,TRUE,Northbound Only,FALSE,7th Ave,49th St,NW,40.760621,-73.983904
+BMT,Broadway,49th St,40.759901,-73.984139,N,Q,R,,,,,,,,,Easement,YES,,YES,NONE,,TRUE,Northbound Only,FALSE,7th Ave,49th St,NE,40.760454,-73.983388
+BMT,Broadway,49th St,40.759901,-73.984139,N,Q,R,,,,,,,,,Easement,YES,,YES,NONE,,TRUE,Northbound Only,FALSE,7th Ave,47th St,SE,40.75903,-73.984412
+BMT,Broadway,49th St,40.759901,-73.984139,N,Q,R,,,,,,,,,Easement,YES,,YES,NONE,,TRUE,Northbound Only,FALSE,Broadway,47th St,NE,40.759513,-73.984884
+BMT,Broadway,49th St,40.759901,-73.984139,N,Q,R,,,,,,,,,Easement,YES,,YES,NONE,,TRUE,Northbound Only,FALSE,7th Ave,47th St,NW,40.759384,-73.984709
+BMT,Broadway,49th St,40.759901,-73.984139,N,Q,R,,,,,,,,,Stair,YES,,YES,NONE,,TRUE,Northbound Only,FALSE,7th Ave,49th St,SE,40.760297,-73.983567
+IRT,Broadway-7th Ave,50th St,40.761728,-73.983849,1,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,50th St,SE,40.761111,-73.983436
+IRT,Broadway-7th Ave,50th St,40.761728,-73.983849,1,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,50th St,SE,40.761282,-73.983853
+IRT,Broadway-7th Ave,50th St,40.761728,-73.983849,1,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,50th St,NE,40.761212,-73.983357
+IRT,Broadway-7th Ave,50th St,40.761728,-73.983849,1,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,50th St,NE,40.761367,-73.983782
+IRT,Broadway-7th Ave,50th St,40.761728,-73.983849,1,,,,,,,,,,,Easement,YES,,YES,NONE,,FALSE,,FALSE,Broadway,50th St,SW,40.761432,-73.98437
+IRT,Broadway-7th Ave,50th St,40.761728,-73.983849,1,,,,,,,,,,,Easement,YES,,YES,NONE,,FALSE,,FALSE,Broadway,50th St,NW,40.761561,-73.984154
+IND,8 Avenue,50th St,40.762456,-73.985984,C,E,,,,,,,,,,Easement,YES,,YES,FULL,,TRUE,Southbound Only,FALSE,8th Ave,49th St,NW,40.761968,-73.986662
+IND,8 Avenue,50th St,40.762456,-73.985984,C,E,,,,,,,,,,Easement,YES,,YES,FULL,,TRUE,Southbound Only,FALSE,8th Ave,50th St,SW,40.762312,-73.986378
+IND,8 Avenue,50th St,40.762456,-73.985984,C,E,,,,,,,,,,Easement,YES,,YES,FULL,,TRUE,Southbound Only,FALSE,8th Ave,50th St,NW,40.762452,-73.986299
+IND,8 Avenue,50th St,40.762456,-73.985984,C,E,,,,,,,,,,Elevator,YES,,YES,FULL,,TRUE,Southbound Only,FALSE,8th Ave,49th St,NW,40.761968,-73.986662
+IND,8 Avenue,50th St,40.762456,-73.985984,C,E,,,,,,,,,,Escalator,YES,,YES,FULL,,TRUE,Southbound Only,FALSE,8th Ave,50th St,SW,40.762312,-73.986378
+IND,8 Avenue,50th St,40.762456,-73.985984,C,E,,,,,,,,,,Stair,YES,,YES,FULL,,TRUE,Southbound Only,FALSE,8th Ave,49th St,SW,40.761741,-73.986924
+IND,8 Avenue,50th St,40.762456,-73.985984,C,E,,,,,,,,,,Stair,YES,,YES,FULL,,TRUE,Southbound Only,FALSE,8th Ave,49th St,SW,40.761691,-73.986805
+IND,8 Avenue,50th St,40.762456,-73.985984,C,E,,,,,,,,,,Stair,YES,,YES,NONE,,TRUE,Southbound Only,FALSE,8th Ave,50th St,SE,40.762085,-73.985829
+IND,8 Avenue,50th St,40.762456,-73.985984,C,E,,,,,,,,,,Stair,YES,,YES,NONE,,TRUE,Southbound Only,FALSE,8th Ave,50th St,NE,40.762216,-73.985757
+IND,8 Avenue,50th St,40.762456,-73.985984,C,E,,,,,,,,,,Stair,NO,,NO,NONE,,TRUE,Southbound Only,FALSE,8th Ave,51st St,NE,40.7629,-73.985412
+IND,Queens Boulevard,7th Av,40.762862,-73.981637,B,D,E,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,7th Ave,53rd St,NE,40.762937,-73.981578
+IND,Queens Boulevard,7th Av,40.762862,-73.981637,B,D,E,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,7th Ave,53rd St,SE,40.762793,-73.98169
+IND,Queens Boulevard,7th Av,40.762862,-73.981637,B,D,E,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,Broadway,53rd St,SE,40.763141,-73.982666
+IND,Queens Boulevard,7th Av,40.762862,-73.981637,B,D,E,,,,,,,,,Stair,YES,,YES,NONE,,FALSE,,TRUE,Broadway,53rd St,NE,40.763388,-73.982495
